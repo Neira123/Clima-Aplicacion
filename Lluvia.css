@@ -1,0 +1,42 @@
+body{
+    background-color: #1D4D71;
+    margin: 0px;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.mapa-lluvia{
+    width: 384px;
+    border-radius: 100px;
+    margin: 7rem 0px 7rem 0px;
+}
+a{
+    text-decoration: none;
+}
+.next-img{
+    height: 64px;
+}
+h2{
+    background-color: #6B853E;
+    display: flex;
+    justify-content: center; align-items: center;
+    padding: 5px;
+}
+footer{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-bottom: 0px;
+    align-content: flex-end;
+}
+.redes-img{
+    height: 64px;
+    width: 90px;
+    border-radius: 150px;
+}

@@ -1,0 +1,23 @@
+body{
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.pre-img{
+    height: 64px;
+}
+.login-div{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+}
+input{
+    background-color: transparent;
+    height: 32px;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center; align-items: center;
+}

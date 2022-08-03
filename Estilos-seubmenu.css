@@ -1,0 +1,40 @@
+body{
+    background-color: #1D4D71;
+    margin: 0px;
+    height: 100vh;
+}
+main{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+}
+nav{
+    background-color: #408D6D ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.pre-img{
+    height: 64px;
+}
+a{
+    text-decoration: none;
+}
+h2{
+    background-color: #6B853E;
+    display: flex;
+    justify-content: center; align-items: center;
+    padding: 5px;
+    width: 128px;
+}
+.pronostico-img, .meses-img, .semana-img{
+    height: 160px;
+}
+.pronostico-div, .contenido, .mes{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+}
